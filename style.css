@@ -1,0 +1,30 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+} */
+
+html,
+body,
+.wrapper {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f9fbfd;
+}
+
+.wrapper {
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+
+button {
+  background-color: blueviolet;
+  color: white;
+}
