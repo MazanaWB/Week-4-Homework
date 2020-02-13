@@ -28,12 +28,13 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ```
+
 ## Process
+
 1.  Pseudocode
 2.  Define variables
-3.  
+3.
 
 ## Known Issues
-
 
 ## Progress Notes
